@@ -1,4 +1,4 @@
-# 🐾 Twinkle AI 熬夜書坊 - LLM 讀書會資源庫
+# Twinkle AI 熬夜書坊 - LLM 讀書會資源庫
 
 ![TwinkleAI Reading Club Banner](images/TwinkleAI%20Reading%20Club%20banner.png)
 
