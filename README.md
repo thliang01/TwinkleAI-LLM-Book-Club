@@ -18,11 +18,11 @@
   - 實作：使用 Twinkle AI 專屬模型 `gemma-3-4B-T1-it` 進行 Formosa Vision 專案問答實作。
   - 資源：[簡報](ch1/Twinkle-llm-book-ch1.pdf) | [Notebook](ch1/Chapter_1_Introduction_to_Language_Models.ipynb) | [TwinkleAI 版 Notebook](ch1/Chapter_1_Introduction_to_Language_Models_twinkleai_version.ipynb)
 
-- [ ] **Chapter 2: Tokens 與 Embeddings**
+- [x] **Chapter 2: Tokens 與 Embeddings (Tokens and Embeddings)**
   - 日期：2026-04-12
   - 內容：Tokenization 解析、Vocabulary 與 Special Tokens、Embeddings 向量魔法。
-  - 實作：深入拆解 Tokenizer 的編碼與解碼過程。
-  - 資源：準備中...
+  - 實作：深入拆解 Tokenizer 的編碼與解碼過程，含八種模型 Tokenizer 視覺化比較、Word2Vec 音樂推薦實作。
+  - 資源：[簡報](ch2/Twinkle-llm-book-ch2-slide.pdf) | [Notebook](ch2/Chapter_2_Tokens_and_Token_Embeddings.ipynb) | [TwinkleAI 版 Notebook](ch2/Chapter_2_Tokens_and_Token_Embeddings-twinkleai.ipynb) | [NotebookLM 筆記](ch2/NotebookLM-Language_Blueprints.pdf)
 
 > 後續章節將每週持續更新...
 
