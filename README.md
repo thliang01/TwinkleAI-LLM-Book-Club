@@ -24,6 +24,15 @@
   - 實作：深入拆解 Tokenizer 的編碼與解碼過程，含八種模型 Tokenizer 視覺化比較、Word2Vec 音樂推薦實作。
   - 資源：[簡報](ch2/Twinkle-llm-book-ch2-slide.pdf) | [Notebook](ch2/Chapter_2_Tokens_and_Token_Embeddings.ipynb) | [TwinkleAI 版 Notebook](ch2/Chapter_2_Tokens_and_Token_Embeddings-twinkleai.ipynb) | [NotebookLM 筆記](ch2/NotebookLM-Language_Blueprints.pdf)
 
+- [ ] **Chapter 3: 看進語言模型的黑盒子 (Looking Inside Large Language Models)**
+  - 日期：2026-04-19
+  - 內容：打開語言模型的黑盒子，透視 Transformer 架構的內部運作機制。
+    - **生成機制的秘密**：LLM 如何以自迴歸（autoregressive）方式逐 Token 生成，以及 KV Cache 最佳化技術如何大幅加速生成過程。
+    - **Transformer 內部解密**：拆解 Transformer 區塊的兩大核心組件——負責記憶與推論的「前饋神經網路 (Feedforward Neural Network)」，以及整合上下文資訊的「注意力機制 (Attention Layer)」。
+    - **注意力機制的進化**：深入認識 Queries、Keys、Values (QKV) 投影矩陣的產生與互動計算，以及近年架構改良——Grouped-Query Attention (GQA)、Flash Attention 與旋轉位置編碼 (RoPE)。
+  - 實作：（待更新）
+  - 資源：（待更新）
+
 > 後續章節將每週持續更新...
 
 ## 🚀 Getting Started (如何開始實作)
