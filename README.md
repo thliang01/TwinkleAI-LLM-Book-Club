@@ -31,7 +31,7 @@
     - **Transformer 內部解密**：拆解 Transformer 區塊的兩大核心組件——負責記憶與推論的「前饋神經網路 (Feedforward Neural Network)」，以及整合上下文資訊的「注意力機制 (Attention Layer)」。
     - **注意力機制的進化**：深入認識 Queries、Keys、Values (QKV) 投影矩陣的產生與互動計算，以及近年架構改良——Grouped-Query Attention (GQA)、Flash Attention 與旋轉位置編碼 (RoPE)。
   - 實作：（待更新）
-  - 資源：（待更新）
+  - 資源：[簡報](ch3/Twinkle-llm-book-ch3.pdf)
 
 > 後續章節將每週持續更新...
 

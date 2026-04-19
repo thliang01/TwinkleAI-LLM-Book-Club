@@ -52,7 +52,7 @@ Transformer 區塊（Block）由兩大核心組件堆疊而成：
 ## 資源
 
 - [官方 Notebook](Chapter%203%20-%20Looking%20Inside%20LLMs.ipynb)
-- 簡報：（待更新）
+- [簡報](Twinkle-llm-book-ch3.pdf)
 - TwinkleAI 版 Notebook：（待更新）
 
 ## 延伸閱讀
