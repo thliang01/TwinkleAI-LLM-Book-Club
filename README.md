@@ -24,7 +24,7 @@
   - 實作：深入拆解 Tokenizer 的編碼與解碼過程，含八種模型 Tokenizer 視覺化比較、Word2Vec 音樂推薦實作。
   - 資源：[簡報](ch2/Twinkle-llm-book-ch2-slide.pdf) | [Notebook](ch2/Chapter_2_Tokens_and_Token_Embeddings.ipynb) | [TwinkleAI 版 Notebook](ch2/Chapter_2_Tokens_and_Token_Embeddings-twinkleai.ipynb) | [NotebookLM 筆記](ch2/NotebookLM-Language_Blueprints.pdf)
 
-- [ ] **Chapter 3: 看進語言模型的黑盒子 (Looking Inside Large Language Models)**
+- [X] **Chapter 3: 看進語言模型的黑盒子 (Looking Inside Large Language Models)**
   - 日期：2026-04-19
   - 內容：打開語言模型的黑盒子，透視 Transformer 架構的內部運作機制。
     - **生成機制的秘密**：LLM 如何以自迴歸（autoregressive）方式逐 Token 生成，以及 KV Cache 最佳化技術如何大幅加速生成過程。
@@ -32,6 +32,16 @@
     - **注意力機制的進化**：深入認識 Queries、Keys、Values (QKV) 投影矩陣的產生與互動計算，以及近年架構改良——Grouped-Query Attention (GQA)、Flash Attention 與旋轉位置編碼 (RoPE)。
   - 實作：（待更新）
   - 資源：[簡報](ch3/Twinkle-llm-book-ch3.pdf)
+
+- [X] **Chapter 4: 文本分類的全景圖 (Text Classification)**
+  - 日期：2026-05-03
+  - 內容：從傳統表示型模型到最新生成式模型，全面探索 LLM 如何精準判斷文字背後的意圖與情緒。
+    - **表示型模型的分類雙重奏**：利用 BERT 家族等 Encoder-only 模型進行分類，涵蓋兩條路徑——針對特定目標微調的「任務特定模型 (Task-specific models)」，以及將文字轉為向量特徵再搭配邏輯迴歸 (Logistic Regression) 的「嵌入模型 (Embedding models)」輕量級方案。
+    - **零樣本分類 (Zero-shot Classification)**：面對標記資料匱乏的實務困境，透過嵌入向量與標記描述之間的餘弦相似度 (Cosine Similarity)，在不訓練模型的情況下完成分類。
+    - **生成式模型的分類新思維**：比較 Sequence-to-sequence 模型（如 Flan-T5）與閉源模型（如 ChatGPT）在分類上的表現，深入提示工程 (Prompt Engineering) 技巧與偏好對齊 (Preference Tuning) 概念。
+    - **專業的評估指標**：解讀混淆矩陣 (Confusion Matrix)，掌握準確率 (Accuracy)、精確率 (Precision)、召回率 (Recall) 與 F1 分數的實務應用。
+  - 實作：（待更新）
+  - 資源：（待更新）
 
 > 後續章節將每週持續更新...
 
