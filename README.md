@@ -1,6 +1,6 @@
 # Twinkle AI 熬夜書坊 - LLM 讀書會資源庫
 
-![TwinkleAI Reading Club Banner](images/TwinkleAI%20Reading%20Club%20v2%29.png)
+![TwinkleAI Reading Club Banner](Hands-On-Large-Language-Models/images/TwinkleAI-Reading-Club-v2.png)
 
 歡迎來到 **Twinkle AI 熬夜書坊 (Late-Night Study Session)** 的專屬 GitHub Repository！
 
