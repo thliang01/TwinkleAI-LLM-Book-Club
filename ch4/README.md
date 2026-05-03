@@ -1,10 +1,10 @@
 # Chapter 4: 文本分類的全景圖 (Text Classification)
 
-![TwinkleAI Reading Club Banner](../images/TwinkleAI_Reading_Club_00800_x_320_px.png)
+![TwinkleAI Reading Club Banner](../images/TwinkleAI-Reading-Club-ch4.png)
 
 - **日期：** 2026-05-03
 - **內容：** 從傳統表示型模型到最新生成式模型，全面探索 LLM 如何精準判斷文字背後的意圖與情緒。
-- **實作：** （待更新）
+- **實作：** [TwinkleAI 版 Notebook](Chapter_4_Text_Classification_twinkle.ipynb)
 
 ## 本章重點
 
@@ -39,5 +39,5 @@
 ## 資源
 
 - [官方 Notebook](Chapter%204%20-%20Text%20Classification.ipynb)
-- 簡報：（待更新）
+- 簡報：[Twinkle-llm-book-ch4-slide.pdf](Twinkle-llm-book-ch4-slide.pdf)
 - TwinkleAI 版 Notebook：（待更新）
