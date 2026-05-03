@@ -40,4 +40,4 @@
 
 - [官方 Notebook](Chapter%204%20-%20Text%20Classification.ipynb)
 - 簡報：[Twinkle-llm-book-ch4-slide.pdf](Twinkle-llm-book-ch4-slide.pdf)
-- TwinkleAI 版 Notebook：（待更新）
+- [TwinkleAI 版 Notebook](Chapter_4_Text_Classification_twinkle.ipynb)
