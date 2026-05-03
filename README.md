@@ -40,8 +40,8 @@
     - **零樣本分類 (Zero-shot Classification)**：面對標記資料匱乏的實務困境，透過嵌入向量與標記描述之間的餘弦相似度 (Cosine Similarity)，在不訓練模型的情況下完成分類。
     - **生成式模型的分類新思維**：比較 Sequence-to-sequence 模型（如 Flan-T5）與閉源模型（如 ChatGPT）在分類上的表現，深入提示工程 (Prompt Engineering) 技巧與偏好對齊 (Preference Tuning) 概念。
     - **專業的評估指標**：解讀混淆矩陣 (Confusion Matrix)，掌握準確率 (Accuracy)、精確率 (Precision)、召回率 (Recall) 與 F1 分數的實務應用。
-  - 實作：（待更新）
-  - 資源：（待更新）
+  - 實作：[TwinkleAI 版 Notebook](ch4/Chapter_4_Text_Classification_twinkle.ipynb)
+  - 資源：[簡報](ch4/Twinkle-llm-book-ch4-slide.pdf) | [Notebook](ch4/Chapter%204%20-%20Text%20Classification.ipynb) | [TwinkleAI 版 Notebook](ch4/Chapter_4_Text_Classification_twinkle.ipynb)
 
 > 後續章節將每週持續更新...
 
